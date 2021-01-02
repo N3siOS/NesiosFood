@@ -15,6 +15,8 @@
 - Mutton
 - Bread
 - Pumkin Pie
+- Porkchop
+- Cooked porkchop
 
 ### 📍 Other change :
 
