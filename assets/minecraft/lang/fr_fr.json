@@ -1,0 +1,11 @@
+{
+  "language.name": "Français",
+  "language.region": "France",
+  "language.code": "fr_fr",
+  "block.minecraft.beetroots": "Rutabaga",
+  "item.minecraft.beetroot": "Rutabaga",
+  "item.minecraft.beetroot_seeds": "Graines de Rutabaga",
+  "item.minecraft.beetroot_soup": "Soupe de Rutabaga",
+  "item.minecraft.porkchop": "Lard",
+  "item.minecraft.cooked_porkchop": "Lard Fumé"
+}
