@@ -13,6 +13,8 @@
 - Rabbit
 - Cooked Mutton
 - Mutton
+- Porkchop
+- Cooked porkchop
 - Bread
 - Pumkin Pie
 
