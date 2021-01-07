@@ -1,4 +1,4 @@
-# NesiosFood 0.2a
+# NesiosFood 0.2b
 
 **Nesios food addon** is a small java minecraft addon that changes some foods in game focus cooked foods.
 
@@ -17,8 +17,9 @@
 - Cooked porkchop
 - Bread
 - Pumkin Pie
+- Apple
+- Golden Apple
 
 ### 📍 Other change :
 
 - Transformation of the betroot into rutabaga the betroot soup thus becomes a soup of rutabaga.
-- Change of color for the apple which becomes green like the granny smith variety.
