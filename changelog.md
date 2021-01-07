@@ -1,5 +1,21 @@
 ## 📍 Changelog
 
+## 0.2b Nesios Food preview
+
+changes and additions :
+
+- Improvement of the beetroot_stage3.png.
+- Changing the texture of the apple and the Golden apple.
+
+Correction :
+
+- cooked_salmon.png
+- cookded_cod.png
+- bread.png
+- cooked_porkchop.png
+
+
+
 ## 0.2a Nesios Food preview
 
 changes and additions :
